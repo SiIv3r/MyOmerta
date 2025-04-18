@@ -44,18 +44,18 @@ Vous pourrez y saisir un message, choisir la méthode de chiffrement, entrer une
 
 ---
 
-### Chiffrement Symétrique
+### Chiffrement symétrique
 
-    python app.py
+    python symmetric_encryption.py
 
 Fonctionne avec une seule clé partagée entre les deux parties.  
 L'utilisateur doit entrer le message et la clé, puis choisir entre chiffrer ou déchiffrer.
 
 ---
 
-### Chiffrement Asymétrique
+### Chiffrement asymétrique
 
-    python v5.py
+    python asymmetric_encryption.py
 
 Cette version utilise une paire de clés (publique/privée).  
 Elle permet :
