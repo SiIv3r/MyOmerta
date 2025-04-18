@@ -19,16 +19,6 @@ L'interface graphique (`graphical.py`) permet de faciliter l'utilisation de ces 
 
 ---
 
-## 🧪 Objectif pédagogique
-
-Ce projet sera **obfusqué**.  
-Les étudiants devront analyser le code pour :
-- Comprendre le fonctionnement des algorithmes de chiffrement
-- Tenter de **casser** les messages chiffrés
-- Différencier les approches symétriques et asymétriques
-
----
-
 ## 🛠️ Installation
 
 ### Prérequis
