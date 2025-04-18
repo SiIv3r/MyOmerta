@@ -2,8 +2,8 @@
 
 **MyOmerta** est une application Python de chiffrement de messages.  
 Elle propose deux méthodes cryptographiques différentes :
-- Un chiffrement **symétrique** via `app.py`
-- Un chiffrement **asymétrique** via `v5.py`
+- Un chiffrement **symétrique** via `symmetric_encryption.py`
+- Un chiffrement **asymétrique** via `asymmetric_encryption.py`
 
 L'interface graphique (`graphical.py`) permet de faciliter l'utilisation de ces fonctions de chiffrement.
 
